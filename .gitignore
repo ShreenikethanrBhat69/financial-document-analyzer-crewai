@@ -44,3 +44,5 @@ Thumbs.db
 # History / temp folders
 # =========================
 .history/
+
+data/*.pdf
