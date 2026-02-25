@@ -1,4 +1,4 @@
-# Financial Document Analyzer (CrewAI Debug Assignment)
+# Financial Document Analyzer (CrewAI)
 
 ## Overview
 
